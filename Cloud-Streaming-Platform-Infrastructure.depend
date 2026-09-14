@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789365199 source:c:\users\user\downloads\cloud-streaming-platform-infrastructure\main.cpp
+	<iostream>
+	<string>
+
